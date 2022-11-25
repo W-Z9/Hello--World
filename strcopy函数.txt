@@ -8,3 +8,4 @@ char* StrCpy(char* src) {
 	str[i] = '\0';
 	return str;
 }
+//Remote edit B21150201 王文珍
